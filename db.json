@@ -4,6 +4,10 @@
       "pincode": "800006",
       "state": "Bihar",
       "restricted": true
-    }   
+    },
+     {
+      "pincode": "784115",
+      "restricted": true
+    } 
   ] 
 }
